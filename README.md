@@ -45,15 +45,15 @@ Positive Outcome on Cyberbully
 - Strength is in all of  us and you just have to have the courage to find it.
 
 
-7) Stress Release
-Catharsis Theory
+7) Stress Release 
+### Catharsis Theory
 Definition of Catharsis
 - The process of venting aggression as a way to release or get rid of emotions. 
 - When people say something was 'catharsis' meaning it released emotion.
 - When you are so angry and went out to yelled or scream. Psychologists call this method catharsis.
 
 
-Theory 
+### Theory 
 - The thought behind catharsis theory is that feelings build up and create pressure if not rented, in the same way air build up in a ballon until it bursts. Releasing emotion decreases the pressure or tension in the person so they have fewer negative emotions and less aggressive.
 - Sigmund Freud was the first to use this theory in phychological therapy. The theory states that expressing or getting out one's aggression and anger should reduce the feeling of aggression.
 - This research hasn't much to back it up. Studies have demonstrated that expressing anger create more anger or hostility when compared to groups that where not pemitted to express anger. Despite opposing evidence, many people still do believe aggression reduce frustration and future aggression.
