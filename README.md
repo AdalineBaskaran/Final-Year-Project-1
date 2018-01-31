@@ -71,7 +71,9 @@ Definition of Catharsis
 # Floor Plan
 ![27044893_1773394792679412_574427926_n](https://user-images.githubusercontent.com/34518690/35629469-adbd8a90-06d9-11e8-841d-603d463add0b.jpg)
 
-![27394195_1773423549343203_1092232232_n](https://user-images.githubusercontent.com/34518690/35629632-12be2ff8-06da-11e8-9197-282e1b786df0.jpg)
+![27591522_1780706551948236_1167042394_n](https://user-images.githubusercontent.com/34518690/35630256-e07d89c4-06db-11e8-906d-3ffacaa813ef.jpg)
+
+Idea on how the question system will work
 
 # Interaction Flow
 This installation is similar to how social media works. There are 10 QR codes with 10 questions and a screen with an image of a girl. When the QR code is scanned, a MCQ question will appear on your mobile phone with 4 answer. You then have to select an answer. Each answer will lead to a different question where the image of the girl will change according to the selected answer. 
