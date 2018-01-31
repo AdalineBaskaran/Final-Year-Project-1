@@ -2,9 +2,9 @@
 Media Arts Final Year Project
 
 # Cyberbully Is Good 
-Cyberbully is bully taken placed on the web. It is defined to be a negative issue that gives a bad impact on people's life. What if cyberbully is viewed from a different prespective, where is leaves a possitive impact to people. It would be able to help shape society to be better. 
-
 Topic: The Benefit Of Cyberbullying
+
+Cyberbully is bully taken placed on the web. It is defined to be a negative issue that gives a bad impact on people's life. What if cyberbully is viewed from a different prespective, where is leaves a possitive impact to people. It would be able to help shape society to be better. 
 
 # Project Argument 
 Cyberbully has been known to be a negative issue on social media. But is it really a bad thing?
