@@ -61,7 +61,10 @@ Definition of Catharsis
 
 # Case Studies
 ![ff](https://user-images.githubusercontent.com/34518690/35629709-4825d09c-06da-11e8-8891-6f957fff142e.JPG)
+[https://www.youtube.com/watch?v=18yjZsKRZfQ](url)
 ![dd](https://user-images.githubusercontent.com/34518690/35629710-485e1236-06da-11e8-8753-f7680d6df267.JPG)
+[https://www.youtube.com/watch?v=zekpN7DcDYU](url)
+
 
 
 # Floor Plan
