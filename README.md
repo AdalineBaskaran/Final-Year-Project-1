@@ -60,6 +60,8 @@ Definition of Catharsis
 - In theorpy setting, catharsis is more than just venting anger. Instead, it's a re-experiencing of a traumatic event and expressing the strong emotions that are associated with them. Therapies that emphasize emotions, such as Gestalt therapy, create role-play simulations to facilitate safe expression of emotion.
 
 # Case Studies
+![ff](https://user-images.githubusercontent.com/34518690/35629709-4825d09c-06da-11e8-8891-6f957fff142e.JPG)
+![dd](https://user-images.githubusercontent.com/34518690/35629710-485e1236-06da-11e8-8753-f7680d6df267.JPG)
 
 
 # Floor Plan
