@@ -76,8 +76,7 @@ Definition of Catharsis
 
 
 ### Floor Plan and Interaction Flow
-![27044893_1773394792679412_574427926_n](https://user-images.githubusercontent.com/34518690/35629469-adbd8a90-06d9-11e8-841d-603d463add0b.jpg)
-
+![floorplan](https://user-images.githubusercontent.com/34518690/35938544-62131eba-0c84-11e8-8200-74bb6a569106.jpg)
 ![27591522_1780706551948236_1167042394_n](https://user-images.githubusercontent.com/34518690/35630256-e07d89c4-06db-11e8-906d-3ffacaa813ef.jpg)
 
 Idea on how the question system will work
