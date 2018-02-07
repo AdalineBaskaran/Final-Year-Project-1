@@ -66,7 +66,7 @@ Definition of Catharsis
 
 ## Idea 3 (Chosen idea)
 
-## Case Studies
+### Case Studies
 ![ff](https://user-images.githubusercontent.com/34518690/35629709-4825d09c-06da-11e8-8891-6f957fff142e.JPG)
 [https://www.youtube.com/watch?v=18yjZsKRZfQ](url)
 ![dd](https://user-images.githubusercontent.com/34518690/35629710-485e1236-06da-11e8-8753-f7680d6df267.JPG)
@@ -79,6 +79,7 @@ Definition of Catharsis
 ![27044893_1773394792679412_574427926_n](https://user-images.githubusercontent.com/34518690/35629469-adbd8a90-06d9-11e8-841d-603d463add0b.jpg)
 
 ![27591522_1780706551948236_1167042394_n](https://user-images.githubusercontent.com/34518690/35630256-e07d89c4-06db-11e8-906d-3ffacaa813ef.jpg)
+
 Idea on how the question system will work
 
 This installation is similar to how social media works. There are 5 QR codes with 5 questions and a screen with an image of a girl. When the QR code is scanned, a MCQ question will appear on your mobile phone with 4 answer. You then have to select an answer. Each answer will affect the image to change and leading to the next question. At the end of the question, a pop up box will appear on your mobile phone with a message based on the image. 
@@ -86,11 +87,11 @@ This installation is similar to how social media works. There are 5 QR codes wit
 ### Questions and Answers
 (Each answer is link to a picture)
 
-1. What's the first thing that comes to your mind when you see her?
-  a Who gave birth to her?
-  b Yerrr
-  c Gonna stay away from her
-  d So fat
+1. What's the first thing that comes to your mind when you see her? 
+a Who gave birth to her?
+b Yerrr
+c Gonna stay away from her
+d So fat
   
 2. How does she make you feel?
   a Disgusted
@@ -117,6 +118,14 @@ This installation is similar to how social media works. There are 5 QR codes wit
   d Go die
 
 ### Technical 
+![xampp](https://user-images.githubusercontent.com/34518690/35932216-175e7322-0c72-11e8-96bb-763a1f97f3d9.JPG)
+Xampp for database
+![php](https://user-images.githubusercontent.com/34518690/35932217-17918e6a-0c72-11e8-8fe6-b0b962887ba3.JPG)
+![php1](https://user-images.githubusercontent.com/34518690/35932215-1724ee68-0c72-11e8-8a4f-5d3ae32a49ca.JPG)
+Use PhpMyAdmin as platform to creat database (php format) www.localhost/phpmyadmin
+
+
+
 
 
 ### Software and Equipment
