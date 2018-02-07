@@ -88,44 +88,59 @@ This installation is similar to how social media works. There are 5 QR codes wit
 (Each answer is link to a picture)
 
 1. What's the first thing that comes to your mind when you see her? 
+
 a Who gave birth to her?
 b Yerrr
 c Gonna stay away from her
 d So fat
   
 2. How does she make you feel?
+
   a Disgusted
   b Sick
   c feel like vomiting
   d Killing her
 
 3. How does her appearence make you feel?
+
   a I can't eat when looking at her
   b Wish she never been born
   c Same as trash
   d Disgusting
   
 4. How does she look?
+
   a Ugly as Fuck
   b Like a bitch
   c Eyesore
   d Hate Her
   
 5. What do you want to tell her?
+
   a Go change your face
   b Bleach your skin
   c Lose some weight
   d Go die
 
 ### Technical 
-![xampp](https://user-images.githubusercontent.com/34518690/35932216-175e7322-0c72-11e8-96bb-763a1f97f3d9.JPG)
 Xampp for database
+![xampp](https://user-images.githubusercontent.com/34518690/35932216-175e7322-0c72-11e8-96bb-763a1f97f3d9.JPG)
+
+Use PhpMyAdmin as platform to creat database (php format) 
 ![php](https://user-images.githubusercontent.com/34518690/35932217-17918e6a-0c72-11e8-8fe6-b0b962887ba3.JPG)
 ![php1](https://user-images.githubusercontent.com/34518690/35932215-1724ee68-0c72-11e8-8a4f-5d3ae32a49ca.JPG)
-Use PhpMyAdmin as platform to creat database (php format) www.localhost/phpmyadmin
+www.localhost/phpmyadmin
+https://www.youtube.com/watch?v=msCY6evKpNI
 
 
+Creating the QR Code 
+![url](https://user-images.githubusercontent.com/34518690/35932736-6cacee02-0c73-11e8-90a8-0af293c025fe.JPG)
 
+Data display HTML and Unity
+https://www.youtube.com/watch?v=wJRZY4O6GeA
+https://www.youtube.com/watch?v=sIxpqcDOTB8
+https://www.youtube.com/watch?v=dUJX857xnS8
+https://www.youtube.com/watch?v=UlqUXs2me7k&feature=youtu.be
 
 
 ### Software and Equipment
@@ -133,6 +148,7 @@ Software:
 - Unity
 - QR Code genrator php
 - PhpMyAdmin (database)
+- Dreamweaver
 
 Equipment:
 - Monitor screen
