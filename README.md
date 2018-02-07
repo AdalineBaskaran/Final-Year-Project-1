@@ -61,12 +61,29 @@ Definition of Catharsis
 
 # Sketches
 ## Idea 1
+
+### Case Studies
+//image
+https://www.youtube.com/watch?v=pd-Csenve6k
+
+### Floor Plan
 ![27394814_1773396882679203_1240448443_n](https://user-images.githubusercontent.com/34518690/35938698-e5bf8410-0c84-11e8-9d71-e1d20917f476.jpg)
-![26234796_1751191488233076_1311054486_n](https://user-images.githubusercontent.com/34518690/35938699-e5f28bee-0c84-11e8-97ce-f51bce6b65e3.jpg)
+
+### Interaction Flow
+User have to step in the box. There will be a screen, a microphone and lights that surround the room. There will be a webcam on the screen that will show your pixelated image on the screen. User then have to shout or scream into the microphone for the image to turn clear and the lights to light up. The louder you scream, the more clear the image will get and the brighter the room.
 
 
 ## Idea 2
-![26234796_1751191488233076_1311054486_n](https://user-images.githubusercontent.com/34518690/35938699-e5f28bee-0c84-11e8-97ce-f51bce6b65e3.jpg)
+
+### Case Studies
+https://www.youtube.com/watch?v=z_9pucfV8YI
+
+
+### Floor Plan
+![26234796_1751191488233076_1311054486_n](https://user-images.githubusercontent.com/34518690/35939033-e55ce34a-0c85-11e8-921e-f6384bd017a5.jpg)
+
+### Interaction Flow
+Music pad is an interaction artwork for user to relax while hearing music. There will 4 pads on the floor. Users have to step on a pad with a headphone to activate the sound. Different sound will be played on different pad.
 
 
 ## Idea 3 (Chosen idea)
