@@ -85,42 +85,8 @@ Idea on how the question system will work
 This installation is similar to how social media works. There are 5 QR codes with 5 questions and a screen with an image of a girl. When the QR code is scanned, a MCQ question will appear on your mobile phone with 4 answer. You then have to select an answer. Each answer will affect the image to change and leading to the next question. At the end of the question, a pop up box will appear on your mobile phone with a message based on the image. 
 
 ### Questions and Answers
-(Each answer is link to a picture)
+![untitled-1](https://user-images.githubusercontent.com/34518690/35934747-5e86b32a-0c79-11e8-9112-4cd7d4a2af6a.jpg)
 
-1. What's the first thing that comes to your mind when you see her? 
-
-a Who gave birth to her?
-b Yerrr
-c Gonna stay away from her
-d So fat
-  
-2. How does she make you feel?
-
-  a Disgusted
-  b Sick
-  c feel like vomiting
-  d Killing her
-
-3. How does her appearence make you feel?
-
-  a I can't eat when looking at her
-  b Wish she never been born
-  c Same as trash
-  d Disgusting
-  
-4. How does she look?
-
-  a Ugly as Fuck
-  b Like a bitch
-  c Eyesore
-  d Hate Her
-  
-5. What do you want to tell her?
-
-  a Go change your face
-  b Bleach your skin
-  c Lose some weight
-  d Go die
 
 ### Technical 
 Xampp for database
