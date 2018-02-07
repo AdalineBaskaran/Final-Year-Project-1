@@ -65,6 +65,9 @@ Definition of Catharsis
 ### Case Studies
 ![captured](https://user-images.githubusercontent.com/34518690/35939353-d3d648fe-0c86-11e8-8bd9-3f33a6d4747b.JPG)
 
+https://www.youtube.com/watch?v=pd-Csenve6k
+
+
 ### Floor Plan
 ![27394814_1773396882679203_1240448443_n](https://user-images.githubusercontent.com/34518690/35938698-e5bf8410-0c84-11e8-9d71-e1d20917f476.jpg)
 
@@ -77,7 +80,6 @@ User have to step in the box. There will be a screen, a microphone and lights th
 ### Case Studies
 ![s](https://user-images.githubusercontent.com/34518690/35939548-70e5c9ee-0c87-11e8-9adf-52dc7094f742.JPG)
 ![ss](https://user-images.githubusercontent.com/34518690/35939549-711da616-0c87-11e8-860e-ef5437cb75ed.JPG)
-https://www.youtube.com/watch?v=pd-Csenve6k
 
 https://www.youtube.com/watch?v=z_9pucfV8YI
 
