@@ -155,4 +155,5 @@ Equipment:
 - Monitor screen
 - iPad/mobile phone
 - VGA cable
+- Laptop
 
