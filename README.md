@@ -89,12 +89,14 @@ This installation is similar to how social media works. There are 5 QR codes wit
 
 ### Technical 
 Xampp for database
+
 ![xampp](https://user-images.githubusercontent.com/34518690/35932216-175e7322-0c72-11e8-96bb-763a1f97f3d9.JPG)
 
 Use PhpMyAdmin as platform to creat database (php format) 
 ![php](https://user-images.githubusercontent.com/34518690/35932217-17918e6a-0c72-11e8-8fe6-b0b962887ba3.JPG)
 ![php1](https://user-images.githubusercontent.com/34518690/35932215-1724ee68-0c72-11e8-8a4f-5d3ae32a49ca.JPG)
 www.localhost/phpmyadmin
+
 https://www.youtube.com/watch?v=msCY6evKpNI
 
 
@@ -103,8 +105,11 @@ Creating the QR Code
 
 Data display HTML and Unity
 https://www.youtube.com/watch?v=wJRZY4O6GeA
+
 https://www.youtube.com/watch?v=sIxpqcDOTB8
+
 https://www.youtube.com/watch?v=dUJX857xnS8
+
 https://www.youtube.com/watch?v=UlqUXs2me7k&feature=youtu.be
 
 
