@@ -61,8 +61,13 @@ Definition of Catharsis
 
 # Sketches
 ## Idea 1
+![27394814_1773396882679203_1240448443_n](https://user-images.githubusercontent.com/34518690/35938698-e5bf8410-0c84-11e8-9d71-e1d20917f476.jpg)
+![26234796_1751191488233076_1311054486_n](https://user-images.githubusercontent.com/34518690/35938699-e5f28bee-0c84-11e8-97ce-f51bce6b65e3.jpg)
+
 
 ## Idea 2
+![26234796_1751191488233076_1311054486_n](https://user-images.githubusercontent.com/34518690/35938699-e5f28bee-0c84-11e8-97ce-f51bce6b65e3.jpg)
+
 
 ## Idea 3 (Chosen idea)
 
