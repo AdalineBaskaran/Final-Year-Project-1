@@ -59,7 +59,14 @@ Definition of Catharsis
 - This research hasn't much to back it up. Studies have demonstrated that expressing anger create more anger or hostility when compared to groups that where not pemitted to express anger. Despite opposing evidence, many people still do believe aggression reduce frustration and future aggression.
 - In theorpy setting, catharsis is more than just venting anger. Instead, it's a re-experiencing of a traumatic event and expressing the strong emotions that are associated with them. Therapies that emphasize emotions, such as Gestalt therapy, create role-play simulations to facilitate safe expression of emotion.
 
-# Case Studies
+# Sketches
+## Idea 1
+
+## Idea 2
+
+## Idea 3 (Chosen idea)
+
+## Case Studies
 ![ff](https://user-images.githubusercontent.com/34518690/35629709-4825d09c-06da-11e8-8891-6f957fff142e.JPG)
 [https://www.youtube.com/watch?v=18yjZsKRZfQ](url)
 ![dd](https://user-images.githubusercontent.com/34518690/35629710-485e1236-06da-11e8-8753-f7680d6df267.JPG)
@@ -68,13 +75,58 @@ Definition of Catharsis
 
 
 
-# Floor Plan
+### Floor Plan and Interaction Flow
 ![27044893_1773394792679412_574427926_n](https://user-images.githubusercontent.com/34518690/35629469-adbd8a90-06d9-11e8-841d-603d463add0b.jpg)
 
 ![27591522_1780706551948236_1167042394_n](https://user-images.githubusercontent.com/34518690/35630256-e07d89c4-06db-11e8-906d-3ffacaa813ef.jpg)
-
 Idea on how the question system will work
 
-# Interaction Flow
-This installation is similar to how social media works. There are 10 QR codes with 10 questions and a screen with an image of a girl. When the QR code is scanned, a MCQ question will appear on your mobile phone with 4 answer. You then have to select an answer. Each answer will lead to a different question where the image of the girl will change according to the selected answer. 
+This installation is similar to how social media works. There are 5 QR codes with 5 questions and a screen with an image of a girl. When the QR code is scanned, a MCQ question will appear on your mobile phone with 4 answer. You then have to select an answer. Each answer will affect the image to change and leading to the next question. At the end of the question, a pop up box will appear on your mobile phone with a message based on the image. 
+
+### Questions and Answers
+(Each answer is link to a picture)
+
+1. What's the first thing that comes to your mind when you see her?
+  a Who gave birth to her?
+  b Yerrr
+  c Gonna stay away from her
+  d So fat
+  
+2. How does she make you feel?
+  a Disgusted
+  b Sick
+  c feel like vomiting
+  d Killing her
+
+3. How does her appearence make you feel?
+  a I can't eat when looking at her
+  b Wish she never been born
+  c Same as trash
+  d Disgusting
+  
+4. How does she look?
+  a Ugly as Fuck
+  b Like a bitch
+  c Eyesore
+  d Hate Her
+  
+5. What do you want to tell her?
+  a Go change your face
+  b Bleach your skin
+  c Lose some weight
+  d Go die
+
+### Technical 
+
+
+### Software and Equipment
+Software:
+- Unity
+- QR Code genrator php
+- PhpMyAdmin (database)
+
+Equipment:
+- Monitor screen
+- iPad/mobile phone
+- VGA cable
 
