@@ -6,16 +6,23 @@ Topic: The Benefit Of Cyberbullying
 
 Cyberbully is bully taken placed on the web. It is defined to be a negative issue that gives a bad impact on people's life. What if cyberbully is viewed from a different prespective, where is leaves a possitive impact to people. It would be able to help shape society to be better. 
 
+> Once cyberbully is happened there are assailants and victim. So if you say something about cyberbullying it should be understandable and acceptable to both sides. In my opinion your current viewpoint is only acceptable to the assailants' side. 
+
 # Project Argument 
 Cyberbully has been known to be a negative issue on social media. But is it really a bad thing?
 
+> The question is good. 
+
 # Project Statement 
-Cyberbully is a form of releasing stress by expressing our feelings on the web. This allows us to feel powerful and control over again.
+~~Cyberbully is a form of releasing stress by expressing our feelings on the web. This allows us to feel powerful and control over again.~~
+
+> This sentence only speaks for assailant. Please change this sentence into something more acceptable for everyone. 
 
 # Background Research
 Positive Outcome on Cyberbully
 1) Stand up for themselves: 
-- Children that are experiencing cyberbully feel much more empowered to stand up for themselves, because they are also in the comfort of their home.
+    - Children that are experiencing cyberbully feel much more empowered to stand up for themselves, because they are also in the comfort of their home.
+    - **Please review your indent over the whole document. It is not well organized.**
 
 
 2) It's In Writing
@@ -54,6 +61,7 @@ Definition of Catharsis
 
 
 ### Theory 
+> This theory only reflects the viewpoint of assailants. 
 - The thought behind catharsis theory is that feelings build up and create pressure if not rented, in the same way air build up in a ballon until it bursts. Releasing emotion decreases the pressure or tension in the person so they have fewer negative emotions and less aggressive.
 - Sigmund Freud was the first to use this theory in phychological therapy. The theory states that expressing or getting out one's aggression and anger should reduce the feeling of aggression.
 - This research hasn't much to back it up. Studies have demonstrated that expressing anger create more anger or hostility when compared to groups that where not pemitted to express anger. Despite opposing evidence, many people still do believe aggression reduce frustration and future aggression.
@@ -92,6 +100,7 @@ Music pad is an interaction artwork for user to relax while hearing music. There
 
 
 ## Idea 3 (Chosen idea)
+> All three ideas are equally important. Pleaes enhance the other two. 
 
 ### Case Studies
 ![ff](https://user-images.githubusercontent.com/34518690/35629709-4825d09c-06da-11e8-8891-6f957fff142e.JPG)
@@ -122,6 +131,7 @@ This installation is similar to how social media works. There are 5 QR codes wit
 
 ### Technical 
 Xampp for database
+> It is not clear what these images are for. If this not the necessary for your explanaition please move this images under the wiki page or appendix pages. 
 
 ![xampp](https://user-images.githubusercontent.com/34518690/35932216-175e7322-0c72-11e8-96bb-763a1f97f3d9.JPG)
 
