@@ -144,8 +144,6 @@ Idea on how the question system will work
 ### Interaction Flow
 This installation is similar to how social media works. There are 5 QR codes with 5 questions and a screen with an image of a girl. When the QR code is scanned, a MCQ question will appear on your mobile phone with 4 answer. You then have to select an answer. Each answer will affect the image to change and leading to the next question. At the end of the question, a pop up box will appear on your mobile phone with a message based on the image. 
 
-![flow](https://user-images.githubusercontent.com/34518690/35938756-1880b7fc-0c85-11e8-8aa3-c17b7e212837.jpg)
-![flow chart](https://user-images.githubusercontent.com/34518690/35938754-18499cc2-0c85-11e8-8772-936a96e57207.jpg)
 ![4sgtk8rz-1402550176](https://user-images.githubusercontent.com/34518690/35938768-2bd07d88-0c85-11e8-94b9-a5e2bf490b58.jpg)
 
 
