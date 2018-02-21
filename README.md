@@ -150,6 +150,9 @@ There is a QR code and a screen displaying an image of a girl. When the QR code 
 ### Questions and Answers
 ![untitled-1](https://user-images.githubusercontent.com/34518690/35934747-5e86b32a-0c79-11e8-9112-4cd7d4a2af6a.jpg)
 
+Survey based on the questions
+
+https://www.surveymonkey.com/r/62VGW7H
 
 ### Technical 
 Xampp for database
