@@ -74,6 +74,10 @@ https://www.youtube.com/watch?v=pd-Csenve6k
 ### Interaction Flow
 User have to step in the box. There will be a screen, a microphone and lights that surround the room. There will be a webcam on the screen that will show your pixelated image on the screen. User then have to shout or scream into the microphone for the image to turn clear and the lights to light up. The louder you scream, the clearer the image will get and the brighter the room.
 
+![pixelated](https://user-images.githubusercontent.com/34518690/36499748-36e7aeaa-177d-11e8-8497-5aef9c221c26.jpg)
+
+Being display on monitor screen when user enter. 
+
 ### Software and Equipment
 Software:
 - Processing
@@ -103,7 +107,9 @@ Music pad is an interaction artwork for user to relax while hearing music. There
 
 ### Technical
 Connecting the arduino to Processing
+
 https://www.youtube.com/watch?v=xA-vExF6ChI
+
 https://www.youtube.com/watch?v=g0pSfyXOXj8
 
 ### Software and Equipment
