@@ -72,8 +72,19 @@ https://www.youtube.com/watch?v=pd-Csenve6k
 ![27394814_1773396882679203_1240448443_n](https://user-images.githubusercontent.com/34518690/35938698-e5bf8410-0c84-11e8-9d71-e1d20917f476.jpg)
 
 ### Interaction Flow
-User have to step in the box. There will be a screen, a microphone and lights that surround the room. There will be a webcam on the screen that will show your pixelated image on the screen. User then have to shout or scream into the microphone for the image to turn clear and the lights to light up. The louder you scream, the more clear the image will get and the brighter the room.
+User have to step in the box. There will be a screen, a microphone and lights that surround the room. There will be a webcam on the screen that will show your pixelated image on the screen. User then have to shout or scream into the microphone for the image to turn clear and the lights to light up. The louder you scream, the clearer the image will get and the brighter the room.
 
+### Software and Equipment
+Software:
+- Processing
+- Arduino
+
+Equipment: 
+- Monitor Screen
+- Microphone
+- LED Lights
+- Arduino
+- Webcam
 
 ## Idea 2
 
@@ -88,7 +99,18 @@ https://www.youtube.com/watch?v=z_9pucfV8YI
 ![26234796_1751191488233076_1311054486_n](https://user-images.githubusercontent.com/34518690/35939033-e55ce34a-0c85-11e8-921e-f6384bd017a5.jpg)
 
 ### Interaction Flow
-Music pad is an interaction artwork for user to relax while hearing music. There will 4 pads on the floor. Users have to step on a pad with a headphone to activate the sound. Different sound will be played on different pad.
+Music pad is an interaction artwork for user to relax while hearing music. There will be 4 pads on the floor. When user steps on the pad, music will play into the headphone and the visual will show on the screen. Different sound will be played on different pad and visual. 
+
+### Software and Equipment
+Software:
+- Processing
+- Arduino
+
+Equipment:
+- Wireless Headphone
+- Wide Screen
+- Projector
+- Arduino Pressure Sensor
 
 
 ## Idea 3 (Chosen idea)
