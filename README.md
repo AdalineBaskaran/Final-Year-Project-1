@@ -10,7 +10,7 @@ Cyberbully is bully taken placed on the web. It is defined to be a negative issu
 Cyberbully has been known to be a negative issue on social media. But is it really a bad thing?
 
 # Project Statement 
-Cyberbully is a form of releasing stress by expressing our feelings on the web. This allows us to feel powerful and control over again.
+Cyberbully is a form of releasing stress by expressing our feelings on the web. This allows us to feel powerful and control over again. However, those on the receiving end can benefit from it too.
 
 # Background Research
 Positive Outcome on Cyberbully
