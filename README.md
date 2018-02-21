@@ -69,7 +69,7 @@ https://www.youtube.com/watch?v=pd-Csenve6k
 
 
 ### Floor Plan
-![27394814_1773396882679203_1240448443_n](https://user-images.githubusercontent.com/34518690/35938698-e5bf8410-0c84-11e8-9d71-e1d20917f476.jpg)
+![plan b](https://user-images.githubusercontent.com/34518690/36499496-674b9530-177c-11e8-9615-ba1375cc3463.jpg)
 
 ### Interaction Flow
 User have to step in the box. There will be a screen, a microphone and lights that surround the room. There will be a webcam on the screen that will show your pixelated image on the screen. User then have to shout or scream into the microphone for the image to turn clear and the lights to light up. The louder you scream, the clearer the image will get and the brighter the room.
@@ -96,10 +96,15 @@ https://www.youtube.com/watch?v=z_9pucfV8YI
 
 
 ### Floor Plan
-![26234796_1751191488233076_1311054486_n](https://user-images.githubusercontent.com/34518690/35939033-e55ce34a-0c85-11e8-921e-f6384bd017a5.jpg)
+![plan c](https://user-images.githubusercontent.com/34518690/36499497-67bd56d4-177c-11e8-981e-d922a1883417.jpg)
 
 ### Interaction Flow
 Music pad is an interaction artwork for user to relax while hearing music. There will be 4 pads on the floor. When user steps on the pad, music will play into the headphone and the visual will show on the screen. Different sound will be played on different pad and visual. 
+
+### Technical
+Connecting the arduino to Processing
+https://www.youtube.com/watch?v=xA-vExF6ChI
+https://www.youtube.com/watch?v=g0pSfyXOXj8
 
 ### Software and Equipment
 Software:
@@ -125,7 +130,7 @@ Equipment:
 
 
 ### Floor Plan 
-![floorplan](https://user-images.githubusercontent.com/34518690/35938544-62131eba-0c84-11e8-8200-74bb6a569106.jpg)
+![plan a](https://user-images.githubusercontent.com/34518690/36499498-67f85c7a-177c-11e8-9b4f-c933856bc352.jpg)
 ![27591522_1780706551948236_1167042394_n](https://user-images.githubusercontent.com/34518690/35630256-e07d89c4-06db-11e8-906d-3ffacaa813ef.jpg)
 
 Idea on how the question system will work
