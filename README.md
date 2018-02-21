@@ -137,7 +137,6 @@ Equipment:
 
 ### Floor Plan 
 ![plan a](https://user-images.githubusercontent.com/34518690/36499498-67f85c7a-177c-11e8-9b4f-c933856bc352.jpg)
-![27591522_1780706551948236_1167042394_n](https://user-images.githubusercontent.com/34518690/35630256-e07d89c4-06db-11e8-906d-3ffacaa813ef.jpg)
 
 Idea on how the question system will work
 
