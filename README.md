@@ -145,9 +145,15 @@ There is a QR code and a screen displaying an image of a girl. When the QR code 
 ### Questions and Answers
 ![untitled-1](https://user-images.githubusercontent.com/34518690/35934747-5e86b32a-0c79-11e8-9112-4cd7d4a2af6a.jpg)
 
-Survey based on the questions
+*The answers of the question above are based on a survey
 
-https://www.surveymonkey.com/r/62VGW7H
+### Result of Survey
+
+![q1](https://user-images.githubusercontent.com/34518690/36644544-cff36e92-1a96-11e8-8c2b-679306fd3105.JPG)
+![q2](https://user-images.githubusercontent.com/34518690/36644545-d0246808-1a96-11e8-89e4-56db2e65c3fc.JPG)
+![q3](https://user-images.githubusercontent.com/34518690/36644546-d05477fa-1a96-11e8-9e2b-618c23e36a68.JPG)
+![q4](https://user-images.githubusercontent.com/34518690/36644542-cf8c24d0-1a96-11e8-930b-0a2ca3420c3b.JPG)
+![q5](https://user-images.githubusercontent.com/34518690/36644543-cfc29362-1a96-11e8-8d3a-850fff89d5c1.JPG)
 
 ### Technical 
 Xampp for database
