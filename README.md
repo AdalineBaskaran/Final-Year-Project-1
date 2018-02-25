@@ -45,6 +45,9 @@ Definition of Catharsis
 - Stronger and more prepared in the future
 - Defending themselves
 
+https://www.youtube.com/watch?v=HIlTHmpemeI
+
+
 2) Character Building
 - Helps us to grow and build character
 - Challenge us to be better
