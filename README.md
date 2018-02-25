@@ -10,42 +10,19 @@ Cyberbully is bully taken placed on the web. It is defined to be a negative issu
 Cyberbully has been known to be a negative issue on social media. But is it really a bad thing?
 
 # Project Statement 
-Cyberbully is a form of releasing stress by expressing our feelings on the web. This allows us to feel powerful and control over again. However, those on the receiving end can benefit from it too.
+Cyberbully is often known as a negative issue. However, there are benefits that can be taken not only for the assailants but the victims too. 
+
 
 # Background Research
 Positive Outcome on Cyberbully
-1) Stand up for themselves: 
-- Children that are experiencing cyberbully feel much more empowered to stand up for themselves, because they are also in the comfort of their home.
 
+## Assailants 
+1) Feel Better About Themselves
+- feel confident and courageous.
+- Develop on inflated ego and feel “cool”.
+2) Stress Release
+- Catharsis Theory
 
-2) It's In Writing
-- Social media, text, email are all in writing, once sent cannot be taken back.
-- Gives hard and undeniable proof it is occuring and who is involved.
-- Helps parents and schools to identify who the problem students are and the proper actions to take.
-
-
-3) From The Bullies Prespective
-- They feel very confident and courageous when bullying someone.
-- This also often makes people develop on inflated ego and feel "cool".
-- To feel better about themselves.
-
-
-4) Making It Public
-- Posting pictures of something, giving the message that they could not just do anything they want that can harm others.
-
-
-5) Defend Themselves
-- Bullying makes you stronger, but only if you take the bullying the right way.
-- Stand up to the bullies and fight back.
-
-
-6) Put Hair On Your Chest
-- 'Bullying' was known as character building. (Back in the days)
-- Either man up to face it or ignore it.
-- Strength is in all of  us and you just have to have the courage to find it.
-
-
-7) Stress Release 
 ### Catharsis Theory
 Definition of Catharsis
 - The process of venting aggression as a way to release or get rid of emotions. 
@@ -58,6 +35,21 @@ Definition of Catharsis
 - Sigmund Freud was the first to use this theory in phychological therapy. The theory states that expressing or getting out one's aggression and anger should reduce the feeling of aggression.
 - This research hasn't much to back it up. Studies have demonstrated that expressing anger create more anger or hostility when compared to groups that where not pemitted to express anger. Despite opposing evidence, many people still do believe aggression reduce frustration and future aggression.
 - In theorpy setting, catharsis is more than just venting anger. Instead, it's a re-experiencing of a traumatic event and expressing the strong emotions that are associated with them. Therapies that emphasize emotions, such as Gestalt therapy, create role-play simulations to facilitate safe expression of emotion.
+
+3) Making It Public
+- Giving the message that they could not just do anything they want that can harm others.
+- Expose corruption in society 
+
+## Victims
+1) Standing Up For Themselves
+- Stronger and more prepared in the future
+- Defending themselves
+
+2) Character Building
+- Helps us to grow and build character
+- Challenge us to be better
+- Make you stronger 
+
 
 # Sketches
 ## Idea 1
@@ -103,7 +95,8 @@ https://www.youtube.com/watch?v=z_9pucfV8YI
 ![plan c](https://user-images.githubusercontent.com/34518690/36499497-67bd56d4-177c-11e8-981e-d922a1883417.jpg)
 
 ### Interaction Flow
-Music pad is an interaction artwork for user to relax while hearing music. There will be 4 pads on the floor. When user steps on the pad, music will play into the headphone and the visual will show on the screen. Different sound will be played on different pad and visual. 
+This installation allows the user to listen and watch a visual of the benefits of cyberbully. User steps onto the pad to activate the visual and sound. The benefits are done based on research. 
+ 
 
 ### Technical
 Connecting the arduino to Processing
